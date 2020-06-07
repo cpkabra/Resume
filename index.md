@@ -1,9 +1,9 @@
 ---
 title: Resume
 ---
- ## Chandraprakash Kabra <br/>
- ## Contact No: 91-9033588658<br/>
- ## E-mail id: chandraprakashkabra@gmail.com<br/>
+## Chandraprakash Kabra <br/>
+## Contact No: 91-9033588658<br/>
+## E-mail id: chandraprakashkabra@gmail.com<br/>
 
 ### CAREER OBJECTIVE
 
@@ -30,3 +30,18 @@ To be a member of an organization where I can use and enhance my knowledge and s
 •	Worked as an Asp.net developer with Pulse solutions Pvt. Ltd. Surat from Jan 2013 to Jun 2013
 •	Worked as a Software Engineer with E-connect solutions Pvt. Ltd. Udaipur. From Sep. 2010 to Sep. 2012.
 
+### EDUCATIONAL QUALIFICATION
+
+•	AMIE (2014) (BE equivalent) in Computer Science with 7.2 CGPA.
+•	Diploma in Information Technology (2010) from Vidya Bhawan Polytechnic College, Udaipur (Rajasthan)  with 75.30%
+•	Senior Secondary(2007) from R.B.S.E with 67.69%
+•	Secondary(2005) from R.B.S.E with 81.82%
+### TECHNICAL SKILLS
+
+Web Technologies        :    ASP.NET, C#.NET, MVC 4.0 , WebApi, OData, JavaScript, AJAX,Jquery, XML, CSS, Bootstrap, AngularJs, HTML,                                Dotnetnuke,SignalR, WCF, WPF, WWF
+Framework               :    NET Framework 4.5, 4.0, 3.5
+Tools & Applications    :    MS Visual Studio 2017, 2015, 2012, 2010
+Operating Systems       :    Windows Series
+Database                :    SQL Server 2012, 2014 and SQL Server 2008, Oracle 10g
+Version Control         :    GIT, VSTS, Visual Source Safe, PureCm, SVN
+Web Servers             :    IIS 6.0 IIS 7.0 and IIS 8.5
