@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
-title: Welcome to cpkabra's site.
-description: Feel free to ask related to software.
+title: Welcome to cpkabra's resume.
+description: It is all about my professional journey.
+github:
+  is_project_page: false
 
