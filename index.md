@@ -1,6 +1,4 @@
----
-title: Resume
----
+
 ## Chandraprakash Kabra <br/>
 ## Contact No: 91-9033588658<br/>
 ## E-mail id: chandraprakashkabra@gmail.com<br/>
